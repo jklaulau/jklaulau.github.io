@@ -1,3 +1,10 @@
+---
+layout: essay
+type: essay
+title: Smart Questions
+date: 2019-09-12
+
+---
 As how Johnson stated, "Communication is one of the most important software engineering skills to develop," and being able to ask effective questions is important in receiving new information from someone else. A good question will be more likely to get a good answer. So then, are there dumb questions? To how I have been taught, the answer is no. However, there is always a smarter way to ask a question. Eric Raymond's guide is a great way to determine if your question is a good one to ask.
 
 
