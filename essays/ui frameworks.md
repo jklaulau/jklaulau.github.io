@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: essayhttps://github.com/jklaulau/jklaulau.github.io/blob/master/essays/ui%20frameworks
 type: essay
 title: UI Frameworks
 date: 2019-10-10
