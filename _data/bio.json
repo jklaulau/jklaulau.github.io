@@ -56,11 +56,10 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows 10",
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Android"
       ]
     }
   ],
@@ -143,17 +142,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "3rd Place in HACC 2019",
+      "date": "2019-10-18",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Won 3rd place for Hawaii Annual Coding Competition."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
