@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Johnsonslist.png
+image: images/volts-wagon.jpg
 title: Volts Wagon
-permalink: projects/eatereez
+permalink: projects/voltswagon
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-11
 labels:
@@ -22,7 +22,10 @@ HACC is a hackathon that takes places here in Hawaii. Founded by Governer David 
 From HACC 2019, there were four challenges. My team and I decided to pick [HECO Electric Vehicle Charging Analysis](http://hacc.hawaii.gov/2019-challenges/electric-vehicle-charging-analysis/). In summary, we were tasked in created a dashboard that will help them analyze data received from electric vehicle charging stations. Data also had inconsistency such that we needed to create an app that will notify HECO if the charging stations had problems including unable to dispense a charge, read credit cards, or user errors.
 
 <h1>Volts-Wagon</h1>
-Our project, Volts-Wagon, was designed to have easy readability. Technologies that were used include ApexCharts, D3.js, and ReactJS. 
+Our project, Volts-Wagon, was designed to have easy readability. So, the application is designed to translate cvs files into graphs. Technologies that were used include ApexCharts, D3.js, and ReactJS. The application is also desgin to detect inconsistency in the data and report them. Here's a link to our [Devpost](https://devpost.com/software/volts-wagon). You can also check out our [github](https://github.com/HACC2019/area-51-raid-squad).
 
-[Devpost](https://devpost.com/software/volts-wagon)
+<h1>The Team Behind Volts Wagon</h1>
+We were a team of five. The four others are Brednt McFeeley, Kenneth Lauritzen, Jake Camarao, Jessica Ocampo, and Kevin Wong. Our distribution was split with front end, back end, and data parsing. Jake and I worked on the front end and utilizing ApexCharts. Kenneth and Brendt worked on backend which consists of reading and determining errors within the data. And Jessica worked on parsing the data from cvs to json. 
 
+<h1>My Experience</h1>
+As this was my first hackathon, this taught me much about using different technologies, like with ApexChart, and working with different indivuals. As this was truely the first software I have ever developed, I am quite proud of what I and the team has accomplished in a few short weeks. Overall, it is an experience I won't forget and great starting point for my software engineering career.
