@@ -4,7 +4,7 @@ type: essay
 title: UI Frameworks
 date: 2019-10-10
 labels:
-  - SUI Frameworks
+  - UI Frameworks
 ---
 
 
