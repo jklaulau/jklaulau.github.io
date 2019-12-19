@@ -2,7 +2,7 @@
   "basics": {
     "name": "James Lau",
     "label": "Student",
-    "picture": "images/github selfie v2.jpg",
+    "picture": "images/github selfie v3.jpg",
     "email": "jklau88@hawaii.edu",
     "phone": "",
     "website": "https://jklaulau.github.io",
@@ -30,17 +30,12 @@
   "interests": [
     {
       "name": "software engineering",
-      "keywords": [
+      "keywords": ["HACC 2019", "Eatereez", "ICS 314"
       ]
     },
     {
-      "name": "data management",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+      "name": "Cyber Security",
+      "keywords": ["ICS 222"
       ]
     }
   ],
@@ -77,33 +72,45 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ "ICS 141", "ICS 241", "ICS 311", "ICS 212", "ICS 314"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Information Technology Center",
+      "position": "ITS Help Desk Consultant",
+      "website": "https://www.hawaii.edu/its/help-desk/",
+      "startDate": "2019-12-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "summary": "Provide technical support to students and faculty of University of hawaii",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "Shirokiya",
+      "position": "Bartender",
+      "website": "https://www.shirokiya.com/",
+      "startDate": "2016-05-11",
+      "endDate": "2017-05-15",
+      "summary": "Provide refreshments to the customers of Shirokiya",
+      "highlights": [
+        "Insure that all customers are of legal age when provided with an alcoholic beverage",
+        "Provide quality customer service"
+      ]
+    },
+    {
+      "company": "Central Pacific Bank",
+      "position": "Dcumentation Center: Assistant I",
+      "website": "https://www.cpb.bank/",
+      "startDate": "2015-05-05",
+      "endDate": "2015-08-03",
+      "summary": "A summer internship. Helped with updating commericial and residential loans.",
+      "highlights": [
+        "Updated any incorrect or outdated loans.",
+        "Backwrote small loans."
       ]
     }
   ],
