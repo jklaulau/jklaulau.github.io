@@ -11,7 +11,7 @@ labels:
 summary: A fun application that I have built in my own time. The application sorts an array of numbers.
 ---
 
-<img classname="ui centered" src="Sorter-finish.png/>
+<img class="ui centered image" src="Sorter-finish.png/>
           
 The Sorter is an applicaiton built entirely on Java with its libraries. The application will produce an array with each index assigned a number. For now, every index is assgined an unique number with no repeats. Then the application will sort the array one step at time at given frame rate. The purpose of this application is give a visual representation of how a sorting algorithm works. 
 
