@@ -1,11 +1,12 @@
 ---
-layout: essayhttps://github.com/jklaulau/jklaulau.github.io/blob/master/essays/ui%20frameworks
+layout: essay
 type: essay
 title: UI Frameworks
 date: 2019-10-10
 labels:
-  - UI Frameworks
+  - SUI Frameworks
 ---
+
 
 UI Frameworks are not only difficult, but a standard for today's expectations for websites. All popular websites constantly update and use the latest versions. This keeps them fresh and trendy. If we were to pull up an old website from the early 2000s, the differences are obvious. And those old websites are probably using raw HTML and CSS. To reduce the fusteration of using UI Frameworks, small companies most likely use software such as Adobe's Dreamworks.
 
