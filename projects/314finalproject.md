@@ -28,11 +28,11 @@ Here at the front page, we have a button to the restaurant list and a search bar
 
 Below the home page contains an image carousel. It will contain a random set of three restaurant logos. This is design to help users choose a new place if they are unable to decide.
 
-<iimg src="../images/ListRestaurant-M3.png"/>
+<img class="ui centered image" src="../images/ListRestaurant-M3.png"/>
 
 Here is the heart of the application as it alows the user to browse through the restaurant list. There filters at the top such that users can scope in on what, where, and even what diet they prefer. On this page restaurants will show part of their information such as title, description, open times, and amount of stars.
 
-<img src="../images/Final-restaurant-details.png"/>
+<img class="ui centered image" src="../images/Final-restaurant-details.png"/>
 
 When a restaurant is clicked on, users then can read the entire description of the restauarant. The page also contains the menu and reviews of other users. 
 
