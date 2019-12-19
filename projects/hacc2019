@@ -1,0 +1,17 @@
+---
+layout: project
+type: project
+image: images/Johnsonslist.png
+title: Volts Wagon
+permalink: projects/eatereez
+# All dates must be YYYY-MM-DD format!
+date: 2019-10-11
+labels:
+  - ReactJS
+  - MongoDB
+  - Meteor
+  - Semantic UI
+summary: An application that conviniently show the user different places to eat at UH Manoa.
+---
+[Devpost](https://devpost.com/software/volts-wagon)
+
