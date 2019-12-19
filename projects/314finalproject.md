@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Johnsonslist.png
+image: images/LandingPage-M3.png
 title: Eateerez
 permalink: projects/eatereez
 # All dates must be YYYY-MM-DD format!
@@ -22,19 +22,19 @@ Eateerez's github repo can be found [here](https://github.com/nutrition-position
 
 <h1>Here's how Eateerez Work</h1>
 
-// home picture
+<img class="ui centered image" src="../images/LandingPage-M3.png"/>
 
 Here at the front page, we have a button to the restaurant list and a search bar. This search bar is allows users to quickly start searching right away. The front page also contain information about the site with clickable icons and text. 
 
-// img carousel
+<img class="ui centered image" src="../images/LandingPage-Random.png"/>
 
 Below the home page contains an image carousel. It will contain a random set of three restaurant logos. This is design to help users choose a new place if they are unable to decide.
 
-// img list restaurant
+<iimg src="../images/ListRestaurant-M3.png"/>
 
 Here is the heart of the application as it alows the user to browse through the restaurant list. There filters at the top such that users can scope in on what, where, and even what diet they prefer. On this page restaurants will show part of their information such as title, description, open times, and amount of stars.
 
-// img restaurant details
+<img src="../images/Final-restaurant-details.png"/>
 
 When a restaurant is clicked on, users then can read the entire description of the restauarant. The page also contains the menu and reviews of other users. 
 
