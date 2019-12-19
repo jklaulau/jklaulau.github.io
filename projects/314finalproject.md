@@ -14,8 +14,6 @@ labels:
 summary: An application that conviniently show the user different places to eat at UH Manoa.
 ---
 
-<h1>Eateerez</h1>
-
 Hungry while at UH? Don't know what to eat or can't decide? Eateerez is for you. Eateerez is designed to help students discover new places to fill their cravings. This app is designed by studens for students so if users login, they can rate and provide feedback for their favorite restaurant. Eatereez also contains a map in case you get lost.
 
 Eateerez's github repo can be found [here](https://github.com/nutrition-positions/eatereez), along with the project homepage [here](https://github.com/nutrition-positions/nutrition-positions.github.io).
