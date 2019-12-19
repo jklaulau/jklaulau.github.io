@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/volts-wagon.jpg
 title: Volts Wagon
-permalink: projects/voltswagon
+permalink: projects/volts-wagon
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-11
 labels:
