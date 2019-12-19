@@ -1,3 +1,4 @@
+
 ---
 layout: essay
 type: essay
@@ -5,6 +6,7 @@ title: Software Engineering After ICS 314
 date: 2019-09-26
 labels:
   - Software Engineering
+  - JavaScript
 ---
 
 
