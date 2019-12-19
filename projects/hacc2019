@@ -8,10 +8,21 @@ permalink: projects/eatereez
 date: 2019-10-11
 labels:
   - ReactJS
-  - MongoDB
-  - Meteor
-  - Semantic UI
-summary: An application that conviniently show the user different places to eat at UH Manoa.
+  - ApexCharts
+  - D3.js
+summary: A project designed with a team that won 3rd in HACC 2019.
 ---
+
+<h1>Hawaii Annual Coding Competition (HACC) 2019</h1>
+
+HACC is a hackathon that takes places here in Hawaii. Founded by Governer David Ige, this competition is aimed to help solve some of Hawaii's problems. Any person from background, whether that is high school student, college student, or a professional, anyone can participate. 
+
+<h1>The Challenge</h1>
+
+From HACC 2019, there were four challenges. My team and I decided to pick [HECO Electric Vehicle Charging Analysis](http://hacc.hawaii.gov/2019-challenges/electric-vehicle-charging-analysis/). In summary, we were tasked in created a dashboard that will help them analyze data received from electric vehicle charging stations. Data also had inconsistency such that we needed to create an app that will notify HECO if the charging stations had problems including unable to dispense a charge, read credit cards, or user errors.
+
+<h1>Volts-Wagon</h1>
+Our project, Volts-Wagon, was designed to have easy readability. Technologies that were used include ApexCharts, D3.js, and ReactJS. 
+
 [Devpost](https://devpost.com/software/volts-wagon)
 
